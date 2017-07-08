@@ -1,0 +1,74 @@
+.media-heading {
+  font-size: 30px;
+}
+.media-body p{
+  font-size: 15px;
+  font-family: Tahoma;
+}
+body {
+  background-image: url("background.jpg");
+}
+.video {
+  background-color: black;
+}.jumbotron {
+  background-color: #1e1e1e;
+  
+  color: white;
+ 
+}
+.jumbotron p{
+   font-size: 15px;
+   font-family: Tahoma;
+}
+.images {
+  width: auto;
+  height: 20px;
+}
+
+.navbar {
+    padding-bottom: 35px;
+    background-color: black;
+    
+}
+
+#logo {
+    width: 75px;
+}
+
+.slide1{
+  background-image: url('1.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.slide2{
+  background-image: url('2.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.slide3{
+  background-image: url('3.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.carousel-caption h1{
+  font-size: 5.4em;
+  padding-bottom: .4em;
+  font-family: Impact;
+}
+.carousel-caption p{
+  font-size: 2em;
+  font-family: Tahoma;
+}
+
+.btn-primary {
+  background-color: #2E536C;
+  border-width: 1.5px;
+  border-color: black;
+  border-style: solid;
+}
